@@ -1,3 +1,7 @@
+
+
+
+
 SMMLV = 908256
 TRANSPORTE = 106454
 V_HORA = SMMLV/240
@@ -291,6 +295,7 @@ def horas(h1,h2):
                     HORAS.append(recDomNoct)
                     HORAS.append(recDomNoct*RNDF)
 
-horas(22,6)
-print(HORAS)
-# Cargar a Git - calculo recargos
+# horas(22,6)
+# print(HORAS)
+
+
